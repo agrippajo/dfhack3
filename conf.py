@@ -81,7 +81,8 @@ def write_tool_docs():
             if k[0] != 'search':
                 outfile.write(label)
             outfile.write(include)
-
+# better delete
+            
 
 write_tool_docs()
 
